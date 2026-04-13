@@ -61,7 +61,7 @@ Still in `index.html`, find the two lines marked `<!-- EDIT: Replace href ... --
 
 ## Step 4 — Enable GitHub Pages
 
-1. In your repo, go to **Settings** → **Pages** (left sidebar)
+1. In your repo, go to **Settings** (top navigation bar) → **Pages**
 2. Under **Branch**, select `main` and click **Save**
 3. After ~30 seconds, your widget will be live at:
    `https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/`
