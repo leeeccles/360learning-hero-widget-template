@@ -39,7 +39,7 @@ A branded hero widget for embedding on a client's 360Learning demo homepage. Cus
    - **`--brand-hover`** → a slightly darker shade of the same colour (for button hover states)
    - **`--brand-light`** → a very light tint of the same colour (for icon backgrounds)
 
-> **Tip:** If you only know the main colour, tools like [coolors.co](https://coolors.co) or [tints.dev](https://www.tints.dev) can generate darker and lighter shades for you.
+> **Tip:** If you only know the main colour, use [color-hex.com](https://www.color-hex.com) to find darker and lighter shades. Search for the client's hex code and it will show you a full range of tints and shades to pick from.
 
 ---
 
